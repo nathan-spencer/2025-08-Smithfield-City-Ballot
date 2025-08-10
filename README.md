@@ -6,7 +6,8 @@ Welcome a public repository for the **2025 Smithfield City Council Election** in
 
 ## Repository Structure
 
-- **primary*sample_ballot*-\_smithfield_2025.pdf**: Official sample ballot for the 2025 Smithfield City Council election in Smithfield, Utah.
+- [**primary*sample_ballot*-\_smithfield_2025.pdf**](primary_sample_ballot_-_smithfield_2025.pdf): Official sample ballot for the 2025 Smithfield City Council election in Smithfield, Utah.
+  [![2025 Smithfield City Council Ballot Preview](ballot-preview.png)](primary_sample_ballot_-_smithfield_2025.pdf)
 - **Smithfield City Council/**: Directory containing folders for each city council candidate.
   - Each candidate folder includes:
     - Conflict of Interest Disclosure Statement (PDF)
