@@ -1,4 +1,4 @@
-# Meet the Candidate: Chris Olsen - Smithfield City Council
+# Meet the Candidate: Chris Olsen
 
 **Why Are You Running For This Position?**
 
